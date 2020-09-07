@@ -5,3 +5,23 @@ font-family: "Arial";
 color: black;
 
 }
+
+
+#container {
+
+
+    width: 70%;
+    padding-block: 1cm;
+    text-align: left;
+    border: 1px;
+    margin: 0 auto;
+
+
+
+}
+
+
+#container h1{
+
+    font-size: 20px;
+} 
